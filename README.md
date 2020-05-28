@@ -1,5 +1,5 @@
 # mnist-CNN
-Applying Convolutional Neural Network on the MNIST dataset (Accuracy: > 99%)
+Applying Convolutional Neural Network (CNN) on the MNIST dataset (Accuracy: > 99%)
 
 1. Convolution
 2. Activation
