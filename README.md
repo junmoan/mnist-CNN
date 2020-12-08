@@ -1,7 +1,6 @@
 # mnist-CNN
 Applying Convolutional Neural Network (CNN), Y-Network CNN, ResNet, and DenseNet on the MNIST dataset (Accuracy: > 99%)
-
-
+<br><br>
 Simple CNN:
 1. Convolution
 2. Activation
