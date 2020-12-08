@@ -1,4 +1,4 @@
-# mnist-CNN
+# mnist-CNN-ResNet-DenseNet
 Applying Convolutional Neural Network (CNN), Y-Network CNN, ResNet, and DenseNet on the MNIST dataset (Accuracy: > 99%)
 <br><br>
 Simple CNN:
